@@ -1,0 +1,10 @@
+plugin:
+  has_options: false
+
+  themes:
+    - name: "Hawkes Blue"
+      path: less/hawkes-blue/theme.html.twig
+    - name: "Matisse Tuna"
+      path: less/matisse-tuna/theme.html.twig
+    - name: "Dark Cyan"
+      path: less/dark-cyan/theme.html.twig
