@@ -13,11 +13,10 @@
         }
     ],
     "require": {
-        "php": ">=5.4.1",
+        "php": ">=5.5",
         "claroline/core-bundle": "*"
     },
     "autoload": {
-        "psr-0": { "Claroline\\ThemesPackBundle": "" }
-    },
-    "target-dir": "Claroline/ThemesPackBundle"
+        "psr-4": { "Claroline\\ThemesPackBundle\\": "" }
+    }
 }
